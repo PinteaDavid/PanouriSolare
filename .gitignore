@@ -1,0 +1,10 @@
+# se recreează pe placă – nu intră în repo
+date/
+runs/
+executate/
+modele/
+*.zip
+cheie_roboflow.txt
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
